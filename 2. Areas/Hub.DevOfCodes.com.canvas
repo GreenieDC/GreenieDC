@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"Hello Dev of Codes & Friends!","id":"8ade036900871492","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"23f3b0e8fb028d84","x":-200,"y":30,"width":400,"height":400,"type":"file","file":"E. Endlessly/Dev of Codes/Hub.DevOfCodes.com.md"}
+	],
+	"edges":[]
+}

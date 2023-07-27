@@ -1,5 +1,5 @@
 ---
-tag: hub
+tags: hub 
 ---
 
 # DCE Digital Dash 0

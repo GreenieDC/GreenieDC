@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3c653f512bfa9c9f","x":-175,"y":-100,"width":400,"height":400,"type":"file","file":"D. Livelihoods/Greenie/hub.maxwahlgren.com.md"},
+		{"type":"text","text":"Hello Greenie & Friends!","id":"ade0647f5fd3c5b4","x":-100,"y":-160,"width":250,"height":60}
+	],
+	"edges":[]
+}
